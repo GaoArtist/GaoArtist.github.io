@@ -1,0 +1,6 @@
+Themes:
+https://jekyllrb.com/resources/
+Jekyl Implementation
+https://docs.github.com/de/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+Themes Structure:
+https://github.com/jeromelachaud/freelancer-theme
